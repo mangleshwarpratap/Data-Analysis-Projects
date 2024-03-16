@@ -12,7 +12,7 @@ The dataset includes information such as sales transactions, product details, cu
 
 ## Installation
 To run this project locally, follow these steps:
-1. Clone the repository to your local machine: `git clone https://github.com/yourusername/ecommerce-sales-analysis.git`
+1. Clone the repository to your local machine: `git clone https://github.com/mangleshwarpratap/ecommerce-sales-analysis.git`
 2. Install the required dependencies, Microsoft PowerBi tool for opening the dashboard.
 3. Download the dataset file `ecomm.csv` and place it in the `data` directory.
 
